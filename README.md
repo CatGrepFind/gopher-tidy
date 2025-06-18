@@ -3,13 +3,13 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/CatGrepFind/gopher-tidy)](https://goreportcard.com/report/github.com/CatGrepFind/gopher-tidy)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A safe and interactive command-line tool written in Go to find and remove leftover application files on macOS.
+My personal interactive command-line tool written in Go to find and remove leftover application files on macOS.
 
 `gopher-tidy` helps you reclaim disk space and keep your system clean by hunting down residual files from uninstalled applications that often get left behind in hidden Library folders.
 
 ---
 
-## Key Features
+## Funcionallity
 
 * **Interactive Interface**: Guides you through the cleanup process step-by-step.
 * **Targeted Search**: Scans all common macOS locations for application remnants (`Application Support`, `Caches`, `Preferences`, etc.).
